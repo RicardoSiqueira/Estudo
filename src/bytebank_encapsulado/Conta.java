@@ -1,3 +1,5 @@
+package bytebank_encapsulado;
+
 
 import bytebank_herdado_conta.Cliente;
 

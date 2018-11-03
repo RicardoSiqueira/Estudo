@@ -1,3 +1,5 @@
+package bytebank_encapsulado;
+
 public class Cliente {
 
     private String nome;

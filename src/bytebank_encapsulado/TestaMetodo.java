@@ -1,3 +1,5 @@
+package bytebank_encapsulado;
+
 public class TestaMetodo {
 	public static void main(String[] args) {
 		Conta contaDoPaulo = new Conta(6646,969060);
